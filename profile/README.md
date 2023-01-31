@@ -1,1 +1,1 @@
-<span style="background-color: #FFFF00">Marked text</span>
+<mark>Marked text</mark>
